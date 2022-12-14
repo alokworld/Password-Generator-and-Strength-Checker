@@ -1,5 +1,5 @@
 # Password-Generator-and-Strength-Checker
-The code suggests Password to the users which is secure and powerful as well as it checks the strength of the Password  
+The code suggests Password to the users which is secure and powerful as well as it checks the strength of the Password provided by the user. 
 The code first asks the user to make a choice, either 1 or 2, 1 for New Password Suggestion and 2 for Password Strength Check.
 If the user enter anything other than valid inputs (i.e. 1 or 2) then a message will displayed as "Invalid Input".
 
